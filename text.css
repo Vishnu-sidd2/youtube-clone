@@ -1,0 +1,31 @@
+p{
+    font-family: arial;
+}
+.video-title{
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 0;
+
+}
+.video-stats{
+    font-size: 15px;
+    margin-top: 0;
+    color: rgb(105, 89, 89);
+}
+.shop-link{
+    font-size: 15px;
+    background-color: rgb(227, 48, 48);
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.shop-now:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.shop-now:active{
+    background-color: black;
+    opacity: 0.5;
+}
